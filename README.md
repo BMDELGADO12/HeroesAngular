@@ -1,5 +1,7 @@
 # Spa
 
+Esta es una aplicacion de una sola pagina 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
