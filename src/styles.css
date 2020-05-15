@@ -38,3 +38,8 @@ footer {
     width: 300px;
     /* justify-content: center; */
 }
+
+.img-icono {
+    width: 150px;
+    height: 150px;
+}
